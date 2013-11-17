@@ -1,0 +1,18 @@
+
+nav{
+    height: 30px;
+    background-color: #0072c6;
+    font: 16px Arial,sans-serif;
+    font-size: 16px;
+}
+nav li{
+    display: inline;
+    color: #999999;
+}
+nav li a{
+    text-decoration: none;
+    padding: 5px 5px;
+}
+nav ul li a:visited{
+    color: #FFFFFF;
+}
